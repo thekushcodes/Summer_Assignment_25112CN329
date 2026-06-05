@@ -33,7 +33,7 @@ The submissions are organized by day. Each folder contains the respective source
    ```
 2. **Explore assignments:** Navigate to any specific day's directory to review code implementation and execution reports.
    ```bash
-   cd Day_01
+   cd Day01
    ```
 
 ## 🛠️ Tech Stack & Tools
