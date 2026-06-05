@@ -4,7 +4,8 @@ A centralized repository for tracking and submitting my college summer assignmen
 
 ## 👤 Student Information
 - **Name:** Anurag Kushwaha
-- **College Branch / Major:** G.L. Bajaj Institute of Engineering and Technology, B.Tech CSE AI
+- **College:** G.L. Bajaj Institute of Engineering and Technology
+- **Major:** Computer Science and Engineering (Artificial Intelligence)
 - **Admission No / UID:** 25112CN329
 - **Roll No:** 2501921520091
 - **Academic Year / Semester:** 2025-26 (Semester 1-2)
