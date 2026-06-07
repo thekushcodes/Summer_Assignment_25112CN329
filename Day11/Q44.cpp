@@ -1,0 +1,20 @@
+// Program to write function to find factorial
+
+#include<iostream>
+using namespace std;
+int fact(int n){
+    int result = 1;
+    for(int i = 2; i <= n; i++){
+        result *= i;
+    }
+    return result;
+}
+
+int main(){
+    int n;
+    cout<<"Enter a number: ";
+    cin>>n;
+    cout<<fact(n);
+
+    return 0;
+}
